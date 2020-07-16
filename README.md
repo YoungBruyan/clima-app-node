@@ -6,7 +6,7 @@ recuerden ejecutar ```npm install ```para las librerias
 
 ejemplo 
 ```
-    Nodde app -d "Guadalajara Jalisco"
+    Node app -d "Guadalajara Jalisco"
 ```
 
 
